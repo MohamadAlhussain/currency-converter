@@ -1,4 +1,4 @@
- Currency Converter App
+# Currency Converter App
 
 A simple JavaScript application that allows users to convert currencies in real-time using an external API.
 
